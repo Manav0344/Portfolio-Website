@@ -151,7 +151,7 @@ button{
     font-weight: 700;
     font-size: 1rem;
     letter-spacing: 2px;
-    transition: all .50s ease-in-out;
+    transition: all .50s ease-in-out !important;
 }
 
 .btn:hover{
@@ -249,13 +249,13 @@ header.sticky{
     padding: 35px 45px;
     border: 2px solid rgb(36, 4, 4);
     border-radius: 10px;
-    transition: all .50s ease-in-out;
+    transition: all .50s ease-in-out !important;
     cursor: pointer;
 }
 
 .box:hover{
     border: 2px solid red;
-    transform: translateY(-10px);
+    transform: translateY(-10px) !important;
     /* box-shadow: 10px 10px 10px grey ,-10px -10px -10px gray; */
 }
 .s-icons i{
