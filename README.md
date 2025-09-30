@@ -1,3 +1,4 @@
+<img width="1366" height="3575" alt="screencapture-manav0344-github-io-Portfolio-Website-2025-09-30-12_05_50" src="https://github.com/user-attachments/assets/416da8af-3cbc-4744-89b6-06fbbc938652" />
 🚀 Live Preview:
 https://manav0344.github.io/Portfolio-Website/
 
